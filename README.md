@@ -14,7 +14,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/python.png" />
 <img align="left" alt="Airflow" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/apache-airflow.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/sql.png" />
-<img align="left" alt="Snowflake" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/apache-spark.png" />
+<img align="left" alt="Snowflake" width="66px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/apache-spark.png" />
 <img align="left" alt="Snowflake" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/snowflake.png" />
 <img align="left" alt="Tableau" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/tableau.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/visual-studio-code.png" />
