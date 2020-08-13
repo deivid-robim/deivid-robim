@@ -23,6 +23,10 @@
 
 <br />
 
+### Certifiations: 
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />
+
 ### Connect with me:
 
 [<img align="left" alt="Deivid Robim | LinkedIn" width="22px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/linkedin.svg" />][linkedin]
