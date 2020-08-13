@@ -4,13 +4,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
 ### Languages and Tools:
 
 <img align="left" alt="AWS" width="26px" src="icons/aws.png" />
@@ -25,6 +18,11 @@
 <img align="left" alt="GitHub" width="26px" src="icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
 
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="Deivid Robim | LinkedIn" width="22px" src="icons/linkedin.svg" />][linkedin]
 
 <br />
 
