@@ -18,6 +18,8 @@
 <img align="left" alt="GitHub" width="26px" src="icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/aws.png" />
+
 <br />
 
 ### Connect with me:
