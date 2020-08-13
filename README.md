@@ -23,9 +23,17 @@
 
 <br />
 
-### Certifications: 
+### Certifications:
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />
+<img align="left" alt="AWS-CloudPractitioner" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />
+<img align="left" alt="AWS-SolArchitect-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SolArchitect-Associate.png" />
+<img align="left" alt="AWS-Developer-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />
+<img align="left" alt="AWS-SysOpAdmin-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />
+
+<br />
+<br />
+<br />
+<br />
 
 ### Connect with me:
 
