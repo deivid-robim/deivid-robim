@@ -8,7 +8,7 @@
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/aws.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/azure.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/docker.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/docker.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/jenkins.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/terraform.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/python.png" />
