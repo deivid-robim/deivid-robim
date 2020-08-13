@@ -23,7 +23,7 @@
 
 <br />
 
-### Certifiations: 
+### Certifications: 
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />
 
