@@ -6,7 +6,7 @@
 
 ### Repositories
 
-I organize my repositories by princiles using GitHub Organizations.
+I organize my repositories by principles using GitHub Organizations.
 
 - [Data Engineering][data-engineering]
 
