@@ -10,7 +10,7 @@ I organize my repositories by princiles using GitHub Organizations.
 
 - [Data Engineering][data-engineering]
 
-### Languages and Tools:
+### Languages and Tools: 
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/aws.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/azure.png" />
@@ -43,12 +43,11 @@ I organize my repositories by princiles using GitHub Organizations.
 <br />
 <br />
 <br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="Deivid Robim | LinkedIn" width="22px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 [AWS-CloudPractitioner]: https://www.youracclaim.com/badges/a3b04072-7c01-4d94-b6ad-bb4396747283/public_url
 [AWS-SolArchitect-Associate]: https://www.youracclaim.com/badges/8c9d1311-ad38-445e-9d14-78908bea12c5/public_url
