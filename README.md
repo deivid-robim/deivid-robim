@@ -32,8 +32,6 @@ I organize my repositories by princiles using GitHub Organizations.
 
 <br />
 
----
-
 ### Certifications:
 
 [<img align="left" alt="AWS-CloudPractitioner" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />][AWS-CloudPractitioner]
