@@ -4,15 +4,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
----
-
 ### Repositories
 
 I organize my repositories by princiles using GitHub Organizations.
 
 - [Data Engineering][data-engineering]
-
----
 
 ### Languages and Tools:
 
@@ -47,8 +43,6 @@ I organize my repositories by princiles using GitHub Organizations.
 <br />
 <br />
 <br />
-
----
 
 ### Connect with me:
 
