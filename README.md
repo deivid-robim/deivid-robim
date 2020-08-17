@@ -4,6 +4,16 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+---
+
+### Repositories
+
+I organize my repositories by princiles using GitHub Organizations.
+
+- [Data Engineering][data-engineering]
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/aws.png" />
@@ -22,17 +32,25 @@
 
 <br />
 
+---
+
 ### Certifications:
 
-<img align="left" alt="AWS-CloudPractitioner" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />
-<img align="left" alt="AWS-SolArchitect-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SolArchitect-Associate.png" />
-<img align="left" alt="AWS-Developer-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />
-<img align="left" alt="AWS-SysOpAdmin-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />
+[<img align="left" alt="AWS-CloudPractitioner" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />][AWS-CloudPractitioner]
+
+[<img align="left" alt="AWS-SolArchitect-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SolArchitect-Associate.png" />][AWS-SolArchitect-Associate]
+
+[<img align="left" alt="AWS-Developer-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />][AWS-Developer-Associate]
+
+[<img align="left" alt="AWS-SysOpAdmin-Associate" width="100px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />][AWS-SysOpAdmin-Associate]
+
 
 <br />
 <br />
 <br />
 <br />
+
+---
 
 ### Connect with me:
 
@@ -40,5 +58,10 @@
 
 <br />
 
+[AWS-CloudPractitioner]: https://www.youracclaim.com/badges/a3b04072-7c01-4d94-b6ad-bb4396747283/public_url
+[AWS-SolArchitect-Associate]: https://www.youracclaim.com/badges/8c9d1311-ad38-445e-9d14-78908bea12c5/public_url
+[AWS-Developer-Associate]: https://www.youracclaim.com/badges/1e54e0b1-6096-4d32-9651-5dcd6a352d6f/public_url
+[AWS-SysOpAdmin-Associate]: https://www.youracclaim.com/badges/c3074967-012f-4de0-882a-9dcac8996a47/public_url
 [linkedin]: https://www.linkedin.com/in/deivid-robim-200b3330/
-
+[data-engineering]: https://github.com/drobim-data-engineering
+[machine-learning]: https://github.com/drobim-machine-learning
