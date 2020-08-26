@@ -1,8 +1,6 @@
 ### Hi there, I'm Deivid 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything around Data Engineering and Machine Learning.
 
 ### Repositories
 
