@@ -24,7 +24,8 @@ I organize my repositories by principles using GitHub Organizations.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/icons/terminal.png" />
 
-<br />
+<br /><br />
+
 
 ### Certifications:
 
@@ -41,7 +42,7 @@ I organize my repositories by principles using GitHub Organizations.
 <br />
 <br />
 <br />
-<br />
+<br /><br />
 
 ### Connect with me:
 
