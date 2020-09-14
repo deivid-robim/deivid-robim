@@ -28,13 +28,13 @@ I organize my repositories by principles using GitHub Organizations.
 
 ### Certifications:
 
-[<img align="left" alt="AWS-CloudPractitioner" width="50px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />][AWS-CloudPractitioner]
+[<img align="left" alt="AWS-CloudPractitioner" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-CloudPractitioner.png" />][AWS-CloudPractitioner]
 
-[<img align="left" alt="AWS-SolArchitect-Associate" width="50px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SolArchitect-Associate.png" />][AWS-SolArchitect-Associate]
+[<img align="left" alt="AWS-SolArchitect-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SolArchitect-Associate.png" />][AWS-SolArchitect-Associate]
 
-[<img align="left" alt="AWS-Developer-Associate" width="50px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />][AWS-Developer-Associate]
+[<img align="left" alt="AWS-Developer-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />][AWS-Developer-Associate]
 
-[<img align="left" alt="AWS-SysOpAdmin-Associate" width="50px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />][AWS-SysOpAdmin-Associate]
+[<img align="left" alt="AWS-SysOpAdmin-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />][AWS-SysOpAdmin-Associate]
 
 
 <br />
