@@ -34,8 +34,7 @@ I organize my repositories by principles using GitHub Organizations.
 
 [<img align="left" alt="AWS-Developer-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />][AWS-Developer-Associate]
 
-[<img align="left" alt="AWS-SysOpAdmin-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />]
-[AWS-SysOpAdmin-Associate]
+[<img align="left" alt="AWS-SysOpAdmin-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />][AWS-SysOpAdmin-Associate]
 
 [<img align="left" alt="AWS-Data-Analytics-Specialty" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Data-Analytics-Specialty.png" />][AWS-Data-Analytics-Specialty]
 
