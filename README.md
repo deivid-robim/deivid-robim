@@ -34,7 +34,10 @@ I organize my repositories by principles using GitHub Organizations.
 
 [<img align="left" alt="AWS-Developer-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Developer-Associate.png" />][AWS-Developer-Associate]
 
-[<img align="left" alt="AWS-SysOpAdmin-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />][AWS-SysOpAdmin-Associate]
+[<img align="left" alt="AWS-SysOpAdmin-Associate" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-SysOpAdmin-Associate.png" />]
+[AWS-SysOpAdmin-Associate]
+
+[<img align="left" alt="AWS-Data-Analytics-Specialty" width="80px" src="https://raw.githubusercontent.com/deivid-robim/deivid-robim/master/certifications/AWS-Data-Analytics-Specialty.png" />][AWS-Data-Analytics-Specialty]
 
 
 <br />
@@ -51,6 +54,8 @@ I organize my repositories by principles using GitHub Organizations.
 [AWS-SolArchitect-Associate]: https://www.youracclaim.com/badges/8c9d1311-ad38-445e-9d14-78908bea12c5/public_url
 [AWS-Developer-Associate]: https://www.youracclaim.com/badges/1e54e0b1-6096-4d32-9651-5dcd6a352d6f/public_url
 [AWS-SysOpAdmin-Associate]: https://www.youracclaim.com/badges/c3074967-012f-4de0-882a-9dcac8996a47/public_url
+[AWS-Data-Analytics-Specialty]: https://www.youracclaim.com/badges/818957fa-502e-40de-ac0a-0ba062dacc11/public_url
 [linkedin]: https://www.linkedin.com/in/deivid-robim-200b3330/
 [data-engineering]: https://github.com/drobim-data-engineering
 [machine-learning]: https://github.com/drobim-machine-learning
+
